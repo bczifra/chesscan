@@ -30,5 +30,5 @@ dependencies {
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("com.google.mlkit:text-recognition:16.0.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.8.1")
-    implementation("com.github.bhlangonijr:chesslib:1.3.4")
+    implementation("com.github.bhlangonijr:chesslib:1.3.3")
 }
